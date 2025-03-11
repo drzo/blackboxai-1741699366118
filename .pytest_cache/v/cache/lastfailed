@@ -1,0 +1,6 @@
+{
+  "agi-os/tests/test_atomspace.py": true,
+  "agi-os/tests/test_chatbot.py": true,
+  "agi-os/tests/test_self_repair.py": true,
+  "agi-os/tests/test_system_manager.py": true
+}
